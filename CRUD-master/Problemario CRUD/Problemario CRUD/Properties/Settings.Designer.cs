@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CalculadorFR.Properties
+namespace Problemario_CRUD.Properties
 {
 
 
